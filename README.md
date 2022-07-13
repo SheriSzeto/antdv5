@@ -1,3 +1,14 @@
+<!--
+ * @Author: sheri
+ * @Date: 2022-07-13 10:48:52
+ * @LastEditors: sheri
+ * @LastEditTime: 2022-07-13 10:49:39
+-->
+
+# antdv5
+
+以 Ant Design Pro 为基础，实现一个基本的网站内容管理后台。该后台具备动态模型设计功能，用 Formily 实现 UI 控制界面，通过配合专用后端接口，实现动态扩充数据库模型和字段
+
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
